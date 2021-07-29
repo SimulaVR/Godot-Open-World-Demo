@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Albedo.png-77f343f27d499bce2c2a3637cccfbf13.s3tc.stex"
-path.etc2="res://.import/Albedo.png-77f343f27d499bce2c2a3637cccfbf13.etc2.stex"
+path.s3tc="res://.import/Albedo.png-5a48d7c77bf54b3b56db8d5cac8ed3fd.s3tc.stex"
+path.etc2="res://.import/Albedo.png-5a48d7c77bf54b3b56db8d5cac8ed3fd.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Terrain/Albedo.png"
-dest_files=[ "res://.import/Albedo.png-77f343f27d499bce2c2a3637cccfbf13.s3tc.stex", "res://.import/Albedo.png-77f343f27d499bce2c2a3637cccfbf13.etc2.stex" ]
+source_file="res://scenes/Godot-Open-World-Demo/Terrain/Albedo.png"
+dest_files=[ "res://.import/Albedo.png-5a48d7c77bf54b3b56db8d5cac8ed3fd.s3tc.stex", "res://.import/Albedo.png-5a48d7c77bf54b3b56db8d5cac8ed3fd.etc2.stex" ]
 
 [params]
 

@@ -1,7 +1,8 @@
 [gd_scene load_steps=3 format=2]
 
-[ext_resource path="res://Terrain/TerrainMaterial.tres" type="Material" id=1]
-[ext_resource path="res://Terrain/Terrain.dae" type="PackedScene" id=2]
+[ext_resource path="res://scenes/Godot-Open-World-Demo/Terrain/TerrainMaterial.tres" type="Material" id=1]
+[ext_resource path="res://scenes/Godot-Open-World-Demo/Terrain/Terrain.dae" type="PackedScene" id=2]
+
 
 [node name="Terrain" instance=ExtResource( 2 )]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Terrain.dae-ec69972e47c8a61f86e54bb2db0e9d8f.scn"
+path="res://.import/Terrain.dae-63512b22bf986761399a4051888a88bb.scn"
 
 [deps]
 
-source_file="res://Terrain/Terrain.dae"
-dest_files=[ "res://.import/Terrain.dae-ec69972e47c8a61f86e54bb2db0e9d8f.scn" ]
+source_file="res://scenes/Godot-Open-World-Demo/Terrain/Terrain.dae"
+dest_files=[ "res://.import/Terrain.dae-63512b22bf986761399a4051888a88bb.scn" ]
 
 [params]
 

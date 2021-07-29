@@ -2,18 +2,17 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/FogCylinder.obj-3ca1f41ae8ce372b573412778781bfc1.mesh"
+path="res://.import/FogCylinder.obj-37a6f0a9e02c16f6e04d49a9fe5cf8dd.mesh"
 
 [deps]
 
-files=[ "res://.import/FogCylinder.obj-3ca1f41ae8ce372b573412778781bfc1.mesh" ]
+files=[ "res://.import/FogCylinder.obj-37a6f0a9e02c16f6e04d49a9fe5cf8dd.mesh" ]
 
-source_file="res://Environment/FogCylinder.obj"
-dest_files=[ "res://.import/FogCylinder.obj-3ca1f41ae8ce372b573412778781bfc1.mesh", "res://.import/FogCylinder.obj-3ca1f41ae8ce372b573412778781bfc1.mesh" ]
+source_file="res://scenes/Godot-Open-World-Demo/Environment/FogCylinder.obj"
+dest_files=[ "res://.import/FogCylinder.obj-37a6f0a9e02c16f6e04d49a9fe5cf8dd.mesh", "res://.import/FogCylinder.obj-37a6f0a9e02c16f6e04d49a9fe5cf8dd.mesh" ]
 
 [params]
 
 generate_tangents=true
 scale_mesh=Vector3( 1, 1, 1 )
-offset_mesh=Vector3( 0, 0, 0 )
 optimize_mesh=true
